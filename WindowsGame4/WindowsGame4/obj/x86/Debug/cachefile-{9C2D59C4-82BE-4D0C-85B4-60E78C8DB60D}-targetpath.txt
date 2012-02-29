@@ -1,0 +1,11 @@
+Content\brick.xnb
+Content\soundtrack.xnb
+Content\soundtrack.wma
+Content\kong.xnb
+Content\paddle.xnb
+Content\ball.xnb
+Content\background_brickbreak.xnb
+Content\SpriteFont1.xnb
+Content\brick2.xnb
+Content\chimes.xnb
+Content\SpriteFont2.xnb
