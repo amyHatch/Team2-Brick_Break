@@ -1,0 +1,2 @@
+C:\Users\bennett\Documents\Visual Studio 2010\Projects\WindowsGame4\WindowsGame4\WindowsGame4Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Amy S Hatch\Documents\Visual Studio 2010\Projects\breakout\UMFKinect-Basic-Breakout-9637622\WindowsGame4\WindowsGame4Content\obj\x86\Debug\ResolveAssemblyReference.cache

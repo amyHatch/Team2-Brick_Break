@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>brick.png</Source>
+      <Name>brick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Amy S Hatch\Documents\Visual Studio 2010\Projects\breakout\UMFKinect-Basic-Breakout-9637622\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\brick.xnb</Output>
+      <Time>2012-02-23T21:29:29.9153839-05:00</Time>
+    </Item>
+    <Item>
+      <Source>soundtrack.wma</Source>
+      <Name>soundtrack</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Amy S Hatch\Documents\Visual Studio 2010\Projects\breakout\UMFKinect-Basic-Breakout-9637622\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\soundtrack.xnb</Output>
+      <Extra>C:\Users\Amy S Hatch\Documents\Visual Studio 2010\Projects\breakout\UMFKinect-Basic-Breakout-9637622\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\soundtrack.wma</Extra>
+      <Time>2012-02-13T08:20:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>kong.wav</Source>
+      <Name>kong</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Amy S Hatch\Documents\Visual Studio 2010\Projects\breakout\UMFKinect-Basic-Breakout-9637622\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\kong.xnb</Output>
+      <Time>2012-02-13T08:20:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>paddle.png</Source>
+      <Name>paddle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Amy S Hatch\Documents\Visual Studio 2010\Projects\breakout\UMFKinect-Basic-Breakout-9637622\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\paddle.xnb</Output>
+      <Time>2012-02-28T17:49:11.4455474-05:00</Time>
+    </Item>
+    <Item>
+      <Source>ball.png</Source>
+      <Name>ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Amy S Hatch\Documents\Visual Studio 2010\Projects\breakout\UMFKinect-Basic-Breakout-9637622\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\ball.xnb</Output>
+      <Time>2012-02-23T21:12:31.9761611-05:00</Time>
+    </Item>
+    <Item>
+      <Source>background_brickbreak.jpg</Source>
+      <Name>background_brickbreak</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Amy S Hatch\Documents\Visual Studio 2010\Projects\breakout\UMFKinect-Basic-Breakout-9637622\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\background_brickbreak.xnb</Output>
+      <Time>2012-02-20T09:45:10.1119538-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Amy S Hatch\Documents\Visual Studio 2010\Projects\breakout\UMFKinect-Basic-Breakout-9637622\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2012-02-20T09:45:22.7786783-05:00</Time>
+    </Item>
+    <Item>
+      <Source>brick2.png</Source>
+      <Name>brick2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Amy S Hatch\Documents\Visual Studio 2010\Projects\breakout\UMFKinect-Basic-Breakout-9637622\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\brick2.xnb</Output>
+      <Time>2012-02-23T21:33:39.8466792-05:00</Time>
+    </Item>
+    <Item>
+      <Source>chimes.wav</Source>
+      <Name>chimes</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Amy S Hatch\Documents\Visual Studio 2010\Projects\breakout\UMFKinect-Basic-Breakout-9637622\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\chimes.xnb</Output>
+      <Time>2012-02-28T19:47:47.6255697-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont2.spritefont</Source>
+      <Name>SpriteFont2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Amy S Hatch\Documents\Visual Studio 2010\Projects\breakout\UMFKinect-Basic-Breakout-9637622\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\SpriteFont2.xnb</Output>
+      <Time>2012-02-28T19:47:57.2871223-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Amy S Hatch\Documents\Visual Studio 2010\Projects\breakout\UMFKinect-Basic-Breakout-9637622\WindowsGame4\WindowsGame4Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Amy S Hatch\Documents\Visual Studio 2010\Projects\breakout\UMFKinect-Basic-Breakout-9637622\WindowsGame4\WindowsGame4\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Amy S Hatch\Documents\Visual Studio 2010\Projects\breakout\UMFKinect-Basic-Breakout-9637622\WindowsGame4\WindowsGame4Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Amy S Hatch\Documents\Visual Studio 2010\Projects\breakout\UMFKinect-Basic-Breakout-9637622\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-02-08T10:38:51.1992137-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

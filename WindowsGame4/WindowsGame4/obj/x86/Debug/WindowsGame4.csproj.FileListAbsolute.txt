@@ -1,0 +1,29 @@
+C:\Users\bennett\Documents\Visual Studio 2010\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\ball.xnb
+C:\Users\bennett\Documents\Visual Studio 2010\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\kinect.xnb
+C:\Users\bennett\Documents\Visual Studio 2010\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\WindowsGame4.exe
+C:\Users\bennett\Documents\Visual Studio 2010\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\WindowsGame4.pdb
+C:\Users\bennett\Documents\Visual Studio 2010\Projects\WindowsGame4\WindowsGame4\WindowsGame4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\bennett\Documents\Visual Studio 2010\Projects\WindowsGame4\WindowsGame4\WindowsGame4\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\bennett\Documents\Visual Studio 2010\Projects\WindowsGame4\WindowsGame4\WindowsGame4\obj\x86\Debug\WindowsGame4.exe
+C:\Users\bennett\Documents\Visual Studio 2010\Projects\WindowsGame4\WindowsGame4\WindowsGame4\obj\x86\Debug\WindowsGame4.pdb
+C:\Users\bennett\Documents\Visual Studio 2010\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\soundtrack.xnb
+C:\Users\bennett\Documents\Visual Studio 2010\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\soundtrack.wma
+C:\Users\bennett\Documents\Visual Studio 2010\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\kong.xnb
+C:\Users\bennett\Documents\Visual Studio 2010\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\brick.xnb
+C:\Users\Amy S Hatch\Documents\Visual Studio 2010\Projects\breakout\UMFKinect-Basic-Breakout-9637622\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\brick.xnb
+C:\Users\Amy S Hatch\Documents\Visual Studio 2010\Projects\breakout\UMFKinect-Basic-Breakout-9637622\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\soundtrack.xnb
+C:\Users\Amy S Hatch\Documents\Visual Studio 2010\Projects\breakout\UMFKinect-Basic-Breakout-9637622\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\kong.xnb
+C:\Users\Amy S Hatch\Documents\Visual Studio 2010\Projects\breakout\UMFKinect-Basic-Breakout-9637622\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\soundtrack.wma
+C:\Users\Amy S Hatch\Documents\Visual Studio 2010\Projects\breakout\UMFKinect-Basic-Breakout-9637622\WindowsGame4\WindowsGame4\bin\x86\Debug\WindowsGame4.exe
+C:\Users\Amy S Hatch\Documents\Visual Studio 2010\Projects\breakout\UMFKinect-Basic-Breakout-9637622\WindowsGame4\WindowsGame4\bin\x86\Debug\WindowsGame4.pdb
+C:\Users\Amy S Hatch\Documents\Visual Studio 2010\Projects\breakout\UMFKinect-Basic-Breakout-9637622\WindowsGame4\WindowsGame4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Amy S Hatch\Documents\Visual Studio 2010\Projects\breakout\UMFKinect-Basic-Breakout-9637622\WindowsGame4\WindowsGame4\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Amy S Hatch\Documents\Visual Studio 2010\Projects\breakout\UMFKinect-Basic-Breakout-9637622\WindowsGame4\WindowsGame4\obj\x86\Debug\WindowsGame4.exe
+C:\Users\Amy S Hatch\Documents\Visual Studio 2010\Projects\breakout\UMFKinect-Basic-Breakout-9637622\WindowsGame4\WindowsGame4\obj\x86\Debug\WindowsGame4.pdb
+C:\Users\Amy S Hatch\Documents\Visual Studio 2010\Projects\breakout\UMFKinect-Basic-Breakout-9637622\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\paddle.xnb
+C:\Users\Amy S Hatch\Documents\Visual Studio 2010\Projects\breakout\UMFKinect-Basic-Breakout-9637622\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\ball.xnb
+C:\Users\Amy S Hatch\Documents\Visual Studio 2010\Projects\breakout\UMFKinect-Basic-Breakout-9637622\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\background_brickbreak.xnb
+C:\Users\Amy S Hatch\Documents\Visual Studio 2010\Projects\breakout\UMFKinect-Basic-Breakout-9637622\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Amy S Hatch\Documents\Visual Studio 2010\Projects\breakout\UMFKinect-Basic-Breakout-9637622\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\brick2.xnb
+C:\Users\Amy S Hatch\Documents\Visual Studio 2010\Projects\breakout\UMFKinect-Basic-Breakout-9637622\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\chimes.xnb
+C:\Users\Amy S Hatch\Documents\Visual Studio 2010\Projects\breakout\UMFKinect-Basic-Breakout-9637622\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\SpriteFont2.xnb
