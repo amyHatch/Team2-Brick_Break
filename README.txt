@@ -1,1 +1,1 @@
-README!!!!!!!!!!!!!
+Brick Break Project for UMF COS377.  Collarborators: Amy Hatch and Sarah Leopold.
